@@ -1,4 +1,4 @@
-# hdo box
+# HDO BOX
 DOWNLOAD: https://github.com/hdoonline/hdo/releases/
 # Features:
 - Adfree
